@@ -1,5 +1,4 @@
-# Mode d'emploi pour developpeur
-## à l'usage de leur collègue féminin
+# Mode d'emploi pour developpeur à l'usage de leur collègue féminin
 
 Vous avez la malchance exceptionnelle
 d'avoir une femme développeuse dans votre bureau.
@@ -49,7 +48,7 @@ salade, poisson, légume, thé ou dessert au chocolat.
 
 * Demandez lui régulièrement l'avis de son mair/petit copain sur toutes décision d'importance et insistez pour savoir comment celui-ci gère ses émotions et humeurs.
 
-* Rappelez lui à tout moment que vous avez parfaitement saisi les enjeux de ses demandes et revendications. Suggérez lui par la même occasion une meilleure manière de s'exprimer ou de se comporter pour qu'elle soit plus en phase avec votre réalité.
+* Rappelez lui à tout moment que vous avez parfaitement saisi les enjeux de ses demandes et revendications. Suggérez lui par la même occasion une meilleure manière de s'exprimer ou de se comporter pour qu'elle soit plus en phase avec la réalité.
 
 ![http://xkcd.com/1325/](http://imgs.xkcd.com/comics/rejection.png)
 
@@ -69,7 +68,7 @@ Si, comble de grossièreté, elle vous serre la main, exigez qu'elle vous fasse 
 Si elle ignore vos attentes, rappelez la supériorité natuelle des dons féminins en la matière sur la gente masculine. Les siècles ont en effet démontrés que la touche féminine améliorait grandement le quotidien.
 
 * Le comportement à adopter en réunion doit être un savant mélange dont le dosage sera laissé à votre sagacité:
- - Si vous estimez que sa présence doit être silencieuse et décorative: ignorez systématiquement ces interventions ou coupez lui systématiquement la parole.
+ - Si vous estimez que sa présence doit être silencieuse et décorative: ignorez ces interventions ou coupez lui systématiquement la parole.
  - Si vous êtes plutôt un admirateur sans borne des capacités typiquement féminines: vous pouvez encore lui demander de prendre des notes pendant la réunion, exiger d'elle qu'elle prépare les échanges en amont pour ensuite les retravailler à la dernière minute et aposer votre nom. Vous éviterez ainsi à votre collègue les affres de la responsabilité et profiterez de ces données innées pour le service des autres.
 
 Cette dernière technique s'applique aussi a posteriori pour un effet maximum: vous pourrez sans crainte reprendre ses suggestions à votre compte et récapituler son intervention  pour laisser éclater vos brillantes capacités d'analyse, de synthèse et votre sens de l'à propos.
@@ -79,6 +78,7 @@ Votre collègue vous sera infiniment reconnaissante de l'aider à clarifier son 
 
 
 ### Compétences
+
 * N'hésitez pas à vous comporter avec elle, comme un père, un frère aîné quand bien même cette personne aurait les mêmes qualifications et années d'expérience.
 Les femmes sont en effet toujours  à la recherche d'un père pour les guider dans le tortueux chemin que consitue une carrière professionnelle.
 
@@ -88,23 +88,25 @@ Les femmes sont en effet toujours  à la recherche d'un père pour les guider da
 
 * Ne lésinez pas non plus sur les détails et les rappels. Les femmes développeuses ont en effet grand besoin d'un feedback permanent sur la manière de faire. Au besoin, relisez son travail au fur et à mesure et si vous l'estimez nécessaire envoyez lui des messages de préférence la nuit ou le matin tôt en dehors des heures de travail. Une façon élégante de lui montrer que son travail vous tient à coeur.
 
-* Dès qu'elle pose une question, rappelez lui les fondamentaux: comment allumer son ordinateur, qu'est ce qu'un type de données, un dictionnaire ou une fonction, comment faire un SELECT sur une base de données.
+* Dès qu'elle pose une question, rappelez lui les fondamentaux: comment allumer son ordinateur, qu'est ce qu'un type de données, un dictionnaire ou une fonction, comment faire un SELECT sur une base de données. 
+Les femmes étant nouvelles dans ce domaine, un rappel sur les bases ne peut leur être que profitable. 
 
 * Passez-y quelques heures pour bien vous assurer que les notions sont maitrisées puis testez là plus tard au détour d'une autre question.
-Il est en effet important de vérifier sa capacité à répondre en permanence aux sollicitations externes et d'e vérifier les résultats de votre pédagogie.
+Il est en effet important de vérifier sa capacité à répondre en permanence aux sollicitations externes et de mesurer les résultats de votre pédagogie.
 
 * Agrémentez vos explications  de schéma détaillé, au besoin écrivez lui les fonctions et les retours, de préférence en prenant son ordinateur et lui montrant votre virtuosité à son clavier.
 Elle vous sera reconnaissante d'une explication exhaustive sur le travail qu'elle doit réaliser et de la gentillesse que vous aurez mis à lui faire son travail.
 
 * Faites lui corriger les erreurs que, bien à propos, vous auriez laissé pour tester ses capacités à la résolution rapide d'erreur.
-De nature distraite et peu concentrée sur des tâches nécessitant de la modélisation théoriques, il est important donc de bien mettre votre collègue en condition pour affronter ce genre de situation.
+De nature distraite et peu concentrée sur des tâches nécessitant de la modélisation théoriques, il est important donc de bien mettre votre collègue en condition et la former à affronter ce genre de situation.
 
 * Veillez à ce que ces erreurs soient simples pour que vous puissiez lui attribuer ces erreurs d'inattention ou à défaut lui rappeler les erreurs précédentes qu'elle a commise, tout en prenant bien soin de la féliciter sur des travaux mineurs ou anondins.
 Votre collègue vous sera reconnaissante de votre justesse de vue et de votre impartialité.
 
 * Au besoin, réécrivez entièrement son travail, veillez à bien documenter et souligner ce que vous aurez estimé comme des erreurs d'implémentation et montrer les avantages indéniables de votre méthode. Préférez pour cela les vendredi soirs et les veilles de départ en congé.
+Votre collègue sera ainsi assurée de l'utilité de son travail et de son implication dans le projet malgré son absence. 
 
-* Exigez qu'elle s'explique de manière circontanciée et exhaustive sur son travail lors des réunions. Ouvrez son code et demandez point par point les explications pour avoir utiliser telle fonction plutôt que telle autre, tel nom de variable quand celui ci vous semblait plus approprié.
+* Exigez qu'elle s'explique de manière circontanciée et exhaustive sur son travail lors des réunions. Ouvrez son code et demandez point par point les explications pour avoir utiliser telle fonction plutôt que telle autre, tel nom de variable quand celui ci vous semblait plus approprié. Il important en effet pour la consistance du code de s'assurer d'une uniformité de pratiques
 
 Enfin  si toutes ces mesures n'auraient pas eu pour effet de sublimer les capacités humaines et professionnelles de votre collègue, rappelez lui que la faible représentation des femmes dans le milieu de l'informatique parle pour elle même et qu'il serait vain de donner une autre place aux femmes que celle que la société leur a assigné depuis des siècles.
 
