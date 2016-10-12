@@ -36,16 +36,21 @@ vous n'en aurez que plus d'effets
 ### Habitudes et comportement
 
 * N'hésitez pas à montrer votre connaissance aigüe des femmes, de leur goûts et de leur habitudes.
+
 Privilégiez de préfèrences les réunions et le lieu où la majorité silencieuse pourra apprécier votre sens aigü de l'analyse:
  - Encore une qui a regardé Sex in the City toute la nuit...
  - Tu as tes règles en ce moment ? Parce que je te sens tendue
  - C'est vrai que le text mining c'est pour les filles, elles aiment tellement papoter...
  - Allez si tu finis à temps, je t'offre une glace/cookie/coca cola light
 
-* Lorsque vous déjeunez, prévenez ses désirs en commandant à sa place les mets favoris des femmes
+* Lorsque vous déjeunez, prévenez ses désirs en commandant à sa place les mets favoris des femmes:
 salade, poisson, légume, thé ou dessert au chocolat. 
 
 * Demandez lui régulièrement l'avis de son mair/petit copain sur toutes décision d'importance et insistez pour savoir comment celui-ci gère ses émotions et humeurs.
+
+* Rappelez lui à tout moment que vous avez parfaitement saisi les enjeux de ses demandes et revendications. Suggérez lui par la même occasion une meilleure manière de s'exprimer ou de se comporter pour qu'elle soit plus en phase avec votre réalité.
+![http://xkcd.com/1325/](http://imgs.xkcd.com/comics/rejection.png)
+
 
 ### Déroulement
 
