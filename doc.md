@@ -31,12 +31,12 @@ Si vous êtes à cours d'idée en la matière laissez vous inspirer par des site
 Il est en effet indispensable de lui rappeler qu'avant d'être un humain ou une collègue c'est un corps laissé à l'entière disposition de vos jugements et fantasmes, et cela lui permettra de lui faire comprendre en passant que vous êtes tout disposé à lui faire connaitre les joies de la levrette ou position tantrique de votre choix.
 Saupoudrez ces remarques d'un air gourmant/salace/entendu,
 vous n'en aurez que plus d'effets
+
 ![https://xkcd.com/322/](http://imgs.xkcd.com/comics/pix_plz.png)
 
 ### Habitudes et comportement
 
-* N'hésitez pas à montrer votre connaissance aigüe des femmes, de leur goûts et de leur habitudes.
-
+N'hésitez pas à montrer votre connaissance aigüe des femmes, de leur goûts et de leur habitudes.
 Privilégiez de préfèrences les réunions et le lieu où la majorité silencieuse pourra apprécier votre sens aigü de l'analyse:
  - Encore une qui a regardé Sex in the City toute la nuit...
  - Tu as tes règles en ce moment ? Parce que je te sens tendue
@@ -49,6 +49,7 @@ salade, poisson, légume, thé ou dessert au chocolat.
 * Demandez lui régulièrement l'avis de son mair/petit copain sur toutes décision d'importance et insistez pour savoir comment celui-ci gère ses émotions et humeurs.
 
 * Rappelez lui à tout moment que vous avez parfaitement saisi les enjeux de ses demandes et revendications. Suggérez lui par la même occasion une meilleure manière de s'exprimer ou de se comporter pour qu'elle soit plus en phase avec votre réalité.
+
 ![http://xkcd.com/1325/](http://imgs.xkcd.com/comics/rejection.png)
 
 
