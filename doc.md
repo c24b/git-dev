@@ -24,6 +24,7 @@ votre charmante/odieuse collegue à l'endroit qu'elle n'aurait jamais dû quitte
   - oh c'est marrant, on est habillé pareil!
   - tu as pensé à une solution pour ton acné je connais un bon dermato si tu veux...
   - ce bouton de fièvre c'est contagieux?
+  - Dis donc, je comprends pourquoi tu n'as pas de mec...
 
 Dans la mesure où les réactions éventuelles seront au mieux un rire gras, au pire un silence gené, laissez parler votre créativité.
 Si vous êtes à cours d'idée en la matière laissez vous inspirer par des sites tels payetaschnek ou sexisme ordinaire.
@@ -38,17 +39,17 @@ vous n'en aurez que plus d'effets
 
 N'hésitez pas à montrer votre connaissance aigüe des femmes, de leur goûts et de leur habitudes.
 Privilégiez de préfèrences les réunions et le lieu où la majorité silencieuse pourra apprécier votre sens aigü de l'analyse:
- - Encore une qui a regardé Sex in the City toute la nuit...
- - Tu as tes règles en ce moment ? Parce que je te sens tendue
- - C'est vrai que le text mining c'est pour les filles, elles aiment tellement papoter...
- - Allez si tu finis à temps, je t'offre une glace/cookie/coca cola light
+  - Encore une qui a regardé Sex in the City toute la nuit...
+  - Tu as tes règles en ce moment ? Parce que je te sens tendue
+  - C'est vrai que le text mining c'est pour les filles, elles aiment tellement papoter...
+  - Allez si tu finis à temps, je t'offre une glace/cookie/coca cola light
 
 * Lorsque vous déjeunez, prévenez ses désirs en commandant à sa place les mets favoris des femmes:
 salade, poisson, légume, thé ou dessert au chocolat. 
 
-* Demandez lui régulièrement l'avis de son mair/petit copain sur toutes décision d'importance et insistez pour savoir comment celui-ci gère ses émotions et humeurs.
+* Demandez lui régulièrement l'avis de son mari/mec/petit copain sur toutes décision d'importance et insistez pour savoir comment celui-ci gère ses émotions et humeurs au quotidien. Si celle ci est célibataire, rappelez lui que c'est pour une bonne raison ou que vous êtes tout disposé à pallier ce manque.
 
-* Rappelez lui à tout moment que vous avez parfaitement saisi les enjeux de ses demandes et revendications. Suggérez lui par la même occasion une meilleure manière de s'exprimer ou de se comporter pour qu'elle soit plus en phase avec la réalité.
+* Rappelez lui à tout moment que vous avez parfaitement saisi les enjeux de ses demandes et revendications. Revendiquez vous féministe exemplaire. Suggérez lui par la même occasion une meilleure manière de s'exprimer ou de se comporter pour qu'elle soit plus en phase avec votre compréhension des enjeux.
 
 ![http://xkcd.com/1325/](http://imgs.xkcd.com/comics/rejection.png)
 
@@ -69,13 +70,14 @@ Si elle ignore vos attentes, rappelez la supériorité natuelle des dons fémini
 
 * Le comportement à adopter en réunion doit être un savant mélange dont le dosage sera laissé à votre sagacité:
  - Si vous estimez que sa présence doit être silencieuse et décorative: ignorez ces interventions ou coupez lui systématiquement la parole.
- - Si vous êtes plutôt un admirateur sans borne des capacités typiquement féminines: vous pouvez encore lui demander de prendre des notes pendant la réunion, exiger d'elle qu'elle prépare les échanges en amont pour ensuite les retravailler à la dernière minute et aposer votre nom. Vous éviterez ainsi à votre collègue les affres de la responsabilité et profiterez de ces données innées pour le service des autres.
+ - Si vous êtes plutôt admiratif des capacités typiquement féminines: vous pouvez encore lui demander de prendre des notes pendant la réunion, exiger d'elle qu'elle prépare les échanges en amont pour ensuite les retravailler à la dernière minute et aposer votre nom. Vous éviterez ainsi à votre collègue les affres de la responsabilité et profiterez de ces qualités innées pour le service des autres.
 
 Cette dernière technique s'applique aussi a posteriori pour un effet maximum: vous pourrez sans crainte reprendre ses suggestions à votre compte et récapituler son intervention  pour laisser éclater vos brillantes capacités d'analyse, de synthèse et votre sens de l'à propos.
 Votre collègue vous sera infiniment reconnaissante de l'aider à clarifier son propos et de résumer ainsi sa pensée tout en, une fois encore, lui évitant l'éventuelle humiliation d'un raté.
 
 -  Si vous êtes dans le cas d'une présentation au client, exigez d'accompagner votre collègue quand bien même vous n'auriez pas pris part au projet. Ou qu'un autre homme qui vienne présenter le travail. Rien ne saurait en effet être plus gage du sérieux d'un travail pour un client qu'une rassurante présence masculine.
 
+![http://dilbert.com/strip/2015-04-08](http://assets.amuniversal.com/428c4e00af230132cfe8005056a9545d)
 
 ### Compétences
 
