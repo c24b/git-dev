@@ -72,12 +72,16 @@ Si elle ignore vos attentes, rappelez la supériorité natuelle des dons fémini
  - Si vous estimez que sa présence doit être silencieuse et décorative: ignorez ces interventions ou coupez lui systématiquement la parole.
  - Si vous êtes plutôt admiratif des capacités typiquement féminines: vous pouvez encore lui demander de prendre des notes pendant la réunion, exiger d'elle qu'elle prépare les échanges en amont pour ensuite les retravailler à la dernière minute et aposer votre nom. Vous éviterez ainsi à votre collègue les affres de la responsabilité et profiterez de ces qualités innées pour le service des autres.
 
-Cette dernière technique s'applique aussi a posteriori pour un effet maximum: vous pourrez sans crainte reprendre ses suggestions à votre compte et récapituler son intervention  pour laisser éclater vos brillantes capacités d'analyse, de synthèse et votre sens de l'à propos.
+Cette dernière technique s'applique aussi a posteriori pour un effet maximum: 
+
+* vous pourrez sans crainte reprendre ses suggestions à votre compte et récapituler son intervention  pour laisser éclater vos brillantes capacités d'analyse, de synthèse et votre sens de l'à propos.
 Votre collègue vous sera infiniment reconnaissante de l'aider à clarifier son propos et de résumer ainsi sa pensée tout en, une fois encore, lui évitant l'éventuelle humiliation d'un raté.
+
+![http://dilbert.com/strip/2015-04-08](http://assets.amuniversal.com/428c4e00af230132cfe8005056a9545d)
 
 -  Si vous êtes dans le cas d'une présentation au client, exigez d'accompagner votre collègue quand bien même vous n'auriez pas pris part au projet. Ou qu'un autre homme qui vienne présenter le travail. Rien ne saurait en effet être plus gage du sérieux d'un travail pour un client qu'une rassurante présence masculine.
 
-![http://dilbert.com/strip/2015-04-08](http://assets.amuniversal.com/428c4e00af230132cfe8005056a9545d)
+
 
 ### Compétences
 
