@@ -1,4 +1,4 @@
-# Mode d'emploi pour developpeur sexiste
+# Mode d'emploi pour developpeur
 
 Vous avez la malchance exceptionnelle
 d'avoir une femme développeuse dans votre bureau.
@@ -61,10 +61,10 @@ Si elle ignore vos attentes, rappelez la supériorité natuelle des dons fémini
  - Si vous estimez que sa présence doit être silencieuse et décorative: ignorez systématiquement ces interventions ou coupez lui systématiquement la parole.
  - Si vous êtes plutôt un admirateur sans borne des capacités typiquement féminines: vous pouvez encore lui demander de prendre des notes pendant la réunion, exiger d'elle qu'elle prépare les échanges en amont pour ensuite les retravailler à la dernière minute et aposer votre nom. Vous éviterez ainsi à votre collègue les affres de la responsabilité et profiterez de ces données innées pour le service des autres.
 
-Cette dernière technique s'applique aussi a posteriori vous pourrez sans crainte reprendre ses suggestions à votre compte et récapituler son intervention  pour laisser éclater vos brillantes capacités d'analyse, de synthèse et votre sens de l'à propos.
-Votre collègue vous sera infiniment reconnaissante de l'aider à clarifier son propos et de résumer ainsi sa pensée tout en, une fois encore, lui évitant l'éventuelle humiliation d'un échec.
+Cette dernière technique s'applique aussi a posteriori pour un effet maximum: vous pourrez sans crainte reprendre ses suggestions à votre compte et récapituler son intervention  pour laisser éclater vos brillantes capacités d'analyse, de synthèse et votre sens de l'à propos.
+Votre collègue vous sera infiniment reconnaissante de l'aider à clarifier son propos et de résumer ainsi sa pensée tout en, une fois encore, lui évitant l'éventuelle humiliation d'un raté.
 
--  Si vous êtes dans le cas d'une présentation au client, exigez d'accompagner votre collègue quand bien même vous n'auriez pas pris part au projet. Ou q'un homme qui vienne présenter le travail. Rien ne saurait en effet être plus gage du sérieux d'un travail pour un client qu'une rassurante présence masculine.
+-  Si vous êtes dans le cas d'une présentation au client, exigez d'accompagner votre collègue quand bien même vous n'auriez pas pris part au projet. Ou qu'un autre homme qui vienne présenter le travail. Rien ne saurait en effet être plus gage du sérieux d'un travail pour un client qu'une rassurante présence masculine.
 
 
 ### Compétences
@@ -86,7 +86,7 @@ Elle vous sera reconnaissante d'une explication exhaustive sur le travail qu'ell
 * Faites lui corriger les erreurs que, bien à propos, vous auriez laissé pour tester ses capacités à la résolution rapide d'erreur.
 De nature distraite et peu concentrée sur des tâches nécessitant de la modélisation théoriques, il est important donc de bien mettre votre collègue en condition pour affronter ce genre de situation.
 
-* Veillez à ce que ces erreurs soient simples pour que vous puissiez lui attribuer ces erreurs d'inattention ou à défault lui rappeler les erreurs précédentes qu'elle a commise, tout en prenant bien soin de la féliciter sur des travaux mineurs ou anondins.
+* Veillez à ce que ces erreurs soient simples pour que vous puissiez lui attribuer ces erreurs d'inattention ou à défaut lui rappeler les erreurs précédentes qu'elle a commise, tout en prenant bien soin de la féliciter sur des travaux mineurs ou anondins.
 Votre collègue vous sera reconnaissante de votre justesse de vue.
 
 * Au besoin, réécrivez entièrement son travail, veillez à bien documenter et souligner ce que vous aurez estimé comme des erreurs d'implémentation et montrer les avantages indéniables de votre méthode. Préférez pour cela les vendredi soirs et les veilles de départ en congé.
