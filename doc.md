@@ -1,4 +1,4 @@
-# Mode d'emploi pour developpeur à l'usage de leur collègue féminin
+# Mode d'emploi pour developeur à l'usage de leur collègue féminin
 
 Vous avez la malchance exceptionnelle
 d'avoir une femme développeuse dans votre bureau.
