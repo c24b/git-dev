@@ -6,6 +6,8 @@ d'avoir une femme développeuse dans votre bureau.
 Voilà quelques conseils avisés (et quelques uns vécus) pour renvoyer
 votre charmante/odieuse collegue à l'endroit qu'elle n'aurait jamais dû quitter.
 
+![https://xkcd.com/1716/](http://imgs.xkcd.com/comics/time_travel_thesis.png)
+
 
 ### Physique
 * Si vous estimez qu'elle est jolie:
