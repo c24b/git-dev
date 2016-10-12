@@ -31,6 +31,7 @@ Si vous êtes à cours d'idée en la matière laissez vous inspirer par des site
 Il est en effet indispensable de lui rappeler qu'avant d'être un humain ou une collègue c'est un corps laissé à l'entière disposition de vos jugements et fantasmes, et cela lui permettra de lui faire comprendre en passant que vous êtes tout disposé à lui faire connaitre les joies de la levrette ou position tantrique de votre choix.
 Saupoudrez ces remarques d'un air gourmant/salace/entendu,
 vous n'en aurez que plus d'effets
+![https://xkcd.com/322/](http://imgs.xkcd.com/comics/pix_plz.png)
 
 ### Habitudes et comportement
 
@@ -44,7 +45,7 @@ Privilégiez de préfèrences les réunions et le lieu où la majorité silencie
 * Lorsque vous déjeunez, prévenez ses désirs en commandant à sa place les mets favoris des femmes
 salade, poisson, légume, thé ou dessert au chocolat. 
 
-* Demandez lui régulièrement l'avis de son mair/petit copain sur toutes décision d'importance et insistez pour savoir comment celui-ci gère vos émotions et humeurs.
+* Demandez lui régulièrement l'avis de son mair/petit copain sur toutes décision d'importance et insistez pour savoir comment celui-ci gère ses émotions et humeurs.
 
 ### Déroulement
 
@@ -74,7 +75,9 @@ Votre collègue vous sera infiniment reconnaissante de l'aider à clarifier son 
 * N'hésitez pas à vous comporter avec elle, comme un père, un frère aîné quand bien même cette personne aurait les mêmes qualifications et années d'expérience.
 Les femmes sont en effet toujours  à la recherche d'un père pour les guider dans le tortueux chemin que consitue une carrière professionnelle.
 
-* Donnez lui votre sentiment sur son travail tous les jours, ne soyez pas avare d'amicale tapes sur l'épaule, d'encouragements et de réprimandes.
+* Donnez lui votre sentiment sur son travail tous les jours, ne soyez pas avare d'amicale tapes sur l'épaule, d'encouragements et de réprimandes. Agrémentez celle ci de remarques générales sur les femmes.
+
+![https://xkcd.com/385/](http://imgs.xkcd.com/comics/how_it_works.png)
 
 * Ne lésinez pas non plus sur les détails et les rappels. Les femmes développeuses ont en effet grand besoin d'un feedback permanent sur la manière de faire. Au besoin, relisez son travail au fur et à mesure et si vous l'estimez nécessaire envoyez lui des messages de préférence la nuit ou le matin tôt en dehors des heures de travail. Une façon élégante de lui montrer que son travail vous tient à coeur.
 
@@ -84,13 +87,13 @@ Les femmes sont en effet toujours  à la recherche d'un père pour les guider da
 Il est en effet important de vérifier sa capacité à répondre en permanence aux sollicitations externes et d'e vérifier les résultats de votre pédagogie.
 
 * Agrémentez vos explications  de schéma détaillé, au besoin écrivez lui les fonctions et les retours, de préférence en prenant son ordinateur et lui montrant votre virtuosité à son clavier.
-Elle vous sera reconnaissante d'une explication exhaustive sur le travail qu'elles doivent réaliser et de la gentillesse que vous aurez mis à lui faire son travail.
+Elle vous sera reconnaissante d'une explication exhaustive sur le travail qu'elle doit réaliser et de la gentillesse que vous aurez mis à lui faire son travail.
 
 * Faites lui corriger les erreurs que, bien à propos, vous auriez laissé pour tester ses capacités à la résolution rapide d'erreur.
 De nature distraite et peu concentrée sur des tâches nécessitant de la modélisation théoriques, il est important donc de bien mettre votre collègue en condition pour affronter ce genre de situation.
 
 * Veillez à ce que ces erreurs soient simples pour que vous puissiez lui attribuer ces erreurs d'inattention ou à défaut lui rappeler les erreurs précédentes qu'elle a commise, tout en prenant bien soin de la féliciter sur des travaux mineurs ou anondins.
-Votre collègue vous sera reconnaissante de votre justesse de vue.
+Votre collègue vous sera reconnaissante de votre justesse de vue et de votre impartialité.
 
 * Au besoin, réécrivez entièrement son travail, veillez à bien documenter et souligner ce que vous aurez estimé comme des erreurs d'implémentation et montrer les avantages indéniables de votre méthode. Préférez pour cela les vendredi soirs et les veilles de départ en congé.
 
