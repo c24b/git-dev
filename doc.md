@@ -100,3 +100,5 @@ Votre collègue vous sera reconnaissante de votre justesse de vue et de votre im
 * Exigez qu'elle s'explique de manière circontanciée et exhaustive sur son travail lors des réunions. Ouvrez son code et demandez point par point les explications pour avoir utiliser telle fonction plutôt que telle autre, tel nom de variable quand celui ci vous semblait plus approprié.
 
 Enfin  si toutes ces mesures n'auraient pas eu pour effet de sublimer les capacités humaines et professionnelles de votre collègue, rappelez lui que la faible représentation des femmes dans le milieu de l'informatique parle pour elle même et qu'il serait vain de donner une autre place aux femmes que celle que la société leur a assigné depuis des siècles.
+
+![http://xkcd.com/67/](http://imgs.xkcd.com/comics/nerd_girls.jpg)
