@@ -19,7 +19,6 @@ votre charmante/odieuse collègue à l'endroit qu'elle n'aurait jamais dû quitt
 * Si vous estimez qu'elle est moche :
  faites lui des commentaires sur sa garde robe, ses éventuelles imperfections
  ou son humeur, exemple :
-
   - c'est un jean stretch ou tu as grossi ?
   - oh c'est marrant, on est habillé pareil !
   - tu as pensé à une solution pour ton acné je connais un bon dermato si tu veux...
@@ -81,7 +80,9 @@ Votre collègue vous sera infiniment reconnaissante de l'aider à clarifier son 
 
 - Si vous êtes dans le cas d'une présentation au client, exigez d'accompagner votre collègue quand bien même vous n'auriez pas pris part au projet, ou qu'un autre homme vienne présenter le travail. Rien ne saurait en effet être plus gage du sérieux d'un travail pour un client qu'une rassurante présence masculine.
 
+* Lors d'une conférence ou l'intervenant est une intervenante, suggérez habilement autour de vous que cette personne ne doit probablement cette place qu'à son physique et que les agréments qui vont avez ont très probablement profité aux organisateurs/comité de sélection.
 
+* Lors de conférence techniques, lorsque des questions au public, insistez sur le fait que vous connaissez son nom de famille, et que probablement le resultat de ce travail est le fruit de son père ou de son frère.  
 
 ### Compétences
 
